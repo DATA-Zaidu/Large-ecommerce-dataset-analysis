@@ -142,7 +142,7 @@ Returns materially impact profitability and should be monitored closely.
 
 Large-ecommerce-dataset-analysis/
 |
-│
+
 ├── Notebook.ipynb           # Data cleaning & analysis
 
 ├── data/
