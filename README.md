@@ -144,15 +144,15 @@ Large-ecommerce-dataset-analysis/
 |
 │
 ├── Notebook.ipynb           # Data cleaning & analysis
-|
+
 ├── data/
-|
+
 │   └── large_ecommerce_dataset.zip
-|
+
 ├── tableau/
-|
+
 │   └── dashboard.png
-|
+
 ├── README.md
 
 
