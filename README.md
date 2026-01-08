@@ -139,13 +139,20 @@ Track Net Revenue, Not Just Gross Sales
 Returns materially impact profitability and should be monitored closely.
 
 🔟 Project Structure
+
 Large-ecommerce-dataset-analysis/
+|
 │
-├── Notebook.ipynb              # Data cleaning & analysis
+├── Notebook.ipynb           # Data cleaning & analysis
+|
 ├── data/
+|
 │   └── large_ecommerce_dataset.zip
+|
 ├── tableau/
+|
 │   └── dashboard.png
+|
 ├── README.md
 
 
